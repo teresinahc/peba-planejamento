@@ -9,6 +9,6 @@ Este documento são os pontos a serem discutidos no hangout de planejamento das 
 
 ## Aspectos práticos
 
-* DEFINIR GUIDELINE PARA CONTRIBUIÇÃO TÉCNICA DO PROJETO
-* APRESENTAÇÃO DO PROJETOS EM EVENTOS.
-* DIVULGAÇAÕ E ASPECTOS RELACIONADOS A PUBLICIDADE
+* Definier guidelines para contribuição técnica.
+* Apresentação do projeto em eventos.
+* Divulgação e engajamento nas redes sociais.
