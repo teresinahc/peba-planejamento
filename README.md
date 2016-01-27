@@ -4,7 +4,7 @@ Este documento são os pontos a serem discutidos no hangout de planejamento das 
 
 ## Aspectos conceituais
 * Objetivos para o Peba como ferramenta de engajamento socio-politico.
-* Objetivos para concretizar e disseminar a contribuição da comunidade com a evolução o projeto.
+* Objetivos para concretizar e disseminar a contribuição da comunidade com a evolução do projeto por feedback.
 
 
 ## Aspectos práticos
